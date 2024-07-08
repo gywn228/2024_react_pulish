@@ -1,0 +1,43 @@
+.sale {
+  background-color: red;
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  text-align: center;
+}
+
+.today {
+  background-color: hotpink;
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  text-align: center;
+}
+
+.factory {
+  background-color: darkblue;
+  color: white;
+  width: 200px;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  font-weight: 800;
+  border: 1px solid red;
+}
+
+.center {
+  background-color: darkblue;
+  color: white;
+  width: 200px;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  font-weight: 800;
+  border: 1px solid red;
+}
