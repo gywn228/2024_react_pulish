@@ -1,0 +1,16 @@
+.youtube{
+    width: 300px;
+    background-color: gray;
+    padding: 50px 30px 50px 30px;
+    text-align: center;
+}
+
+
+.youtube > i{
+    margin-right: 4px;
+}
+
+
+.youtube > span{
+    font-weight: 800;
+}
