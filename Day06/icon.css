@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  /* 자식들의 gap */
+  gap: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: fit-content;
+  padding: 20px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.icon > i {
+  font-size: 20px;
+}
+
+.icon > span {
+  font-size: 10px;
+}
