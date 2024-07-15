@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Single+Day&display=swap");
+@font-face {
+  font-family: "PeoplefirstFightingTTF";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2406-2@1.0/PeoplefirstFightingTTF.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+}
+
+.menu {
+  padding: 20px;
+  border: 3px solid pink;
+  width: fit-content;
+  font-size: 30px;
+
+  position: fixed;
+  /* top or bottom: 0px */
+  /* left or right: 0px */
+  bottom: 100px;
+  right: 100px;
+}
+
+.morning {
+  font-family: "PeoplefirstFightingTTF";
+}
+
+.lunch {
+  font-family: "Dongle", sans-serif;
+}
+
+.dinner {
+  font-family: "Single Day", cursive;
+}
